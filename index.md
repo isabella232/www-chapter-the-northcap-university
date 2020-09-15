@@ -1,8 +1,3 @@
-layout: col-sidebar
-title: OWASP Gurugram The NorthCap Universtiy
-tags: example-tag
-region: Asia
-
 ![OWASP Gurugram Logo](https://upload.wikimedia.org/wikipedia/commons/5/56/OWASP_GURUGRAM.jpg)<br>
 
 ## Welcome
