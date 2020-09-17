@@ -1,3 +1,16 @@
+---
+
+layout: col-sidebar
+title: OWASP Gurugram
+tags: Leaders
+region: Asia
+tags: tab_example
+meetup-group: OWASP-The NorthCap University-Chapter
+country: India
+postal-code: 122001
+
+---
+
 ![OWASP Gurugram Logo](https://upload.wikimedia.org/wikipedia/commons/5/56/OWASP_GURUGRAM.jpg)<br>
 
 ## Welcome
