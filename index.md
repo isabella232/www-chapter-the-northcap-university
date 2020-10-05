@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Gurugram
+title: OWASP The Northcap University student chapter 
 tags: Leaders
 region: Asia
 tags: tab_example
