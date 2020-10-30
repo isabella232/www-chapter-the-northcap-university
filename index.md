@@ -5,7 +5,7 @@ title: OWASP The Northcap University - Student Chapter
 tags: Leaders
 region: Asia
 tags: 
-meetup-group: OWASP-The NorthCap University-Chapter
+meetup-group: OWASP-The-NorthCap-University-Meetup-Group/ 
 country: India
 postal-code: 122001
 
