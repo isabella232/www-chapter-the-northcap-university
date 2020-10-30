@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP The Northcap University 
+title: OWASP The Northcap University - Student Chapter
 tags: Leaders
 region: Asia
 tags: 
