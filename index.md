@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Gurugram The Northcap University
+title: OWASP Gurugram
 tags: Leaders
 region: Asia
 tags: 
