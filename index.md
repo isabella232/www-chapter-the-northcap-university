@@ -50,7 +50,7 @@ Cyber Security Aspirant<br>
 Mob.: +91 - 81789 85557<br>
 Email : abhishek.singh@owasp.org<br>
 
-Join Owasp Gururam Meetup :-.<br>
+Join Owasp Gururam Meetup :
 [Join Meetup](https://www.meetup.com/OWASP-The-NorthCap-University-Meetup-Group/)
 
 {% include chapter_events.html group=page.meetup-group %}
