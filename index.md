@@ -53,6 +53,8 @@ Email : abhishek.singh@owasp.org<br>
 Join Owasp Gururam Meetup :-.<br>
 [Join Meetup](https://www.meetup.com/OWASP-The-NorthCap-University-Meetup-Group/)
 
+{% include chapter_events.html group=page.meetup-group %}
+
 ## October Chapter Meet :- <br>
 Date 2nd October 2020 <br>
 Topic : Bug Bounty Unpredictable Battle <br>
