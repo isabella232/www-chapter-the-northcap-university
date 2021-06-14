@@ -5,7 +5,7 @@ title: OWASP The NorthCap University - Student Chapter
 tags: Leaders
 region: Asia
 tags: 
-meetup-group: OWASP-The-NorthCap-University-Meetup-Group/ 
+meetup-group: OWASP-The-NorthCap-University-Meetup-Group
 country: India
 postal-code: 122001
 
@@ -15,6 +15,14 @@ postal-code: 122001
 
 ## Welcome
 Welcome to The NorthCap University Chapter.
+
+### Upcoming Meetings
+
+We schedule our meetings on the [OWASP NorthCap University Chapter Meetup Group](https://www.meetup.com/OWASP-The-NorthCap-University-Meetup-Group/)
+
+{% include chapter_events.html group=page.meetup-group %}
+
+Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
